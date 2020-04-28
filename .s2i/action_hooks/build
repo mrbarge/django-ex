@@ -1,2 +1,2 @@
 #!/bin/bash
-python /opt/app_root/src/wsgi/myproject/manage.py collectstatic --noinput
+python /opt/app_root/src/manage.py collectstatic --noinput
